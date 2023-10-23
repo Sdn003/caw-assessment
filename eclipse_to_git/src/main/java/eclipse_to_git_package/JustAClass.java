@@ -4,7 +4,11 @@ public class JustAClass {
 	
 	
 	public static void addingANewMethod() {
-		System.out.println("Hell New Method");
+		System.out.println("Hello New Method");
+	}
+
+	public static void addingMethodFromGit(){
+		System.out.println("Hello Method from git");
 	}
 
 	public static void main(String[] args) {
